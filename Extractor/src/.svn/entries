@@ -1,0 +1,31 @@
+10
+
+dir
+60
+http://10.118.18.33:18080/svn/Bigdata_repo/Extractor/src
+http://10.118.18.33:18080/svn/Bigdata_repo
+
+
+
+2014-07-28T12:45:21.525229Z
+13
+user
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ca73b312-96e4-4454-91d6-1f23323a67fd
+
+com
+dir
+

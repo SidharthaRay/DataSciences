@@ -1,0 +1,26 @@
+# Set input file path
+inputPath: interest_rating.csv
+
+# Set recommendation methods
+# UBCF - User Based Collaborative Filtering
+# IBCF - Item Based Collaborative Filtering
+# POPULAR
+# SVD
+method: UBCF
+
+# Set test file path (applicable only in case of POPULAR method)
+testPath: test_rating.csv
+
+# Driver & Database details
+driverClass: "com.vertica.jdbc.Driver"
+classPath: "vertica-jdbc-7.0.1-0.jar"
+hostname: 10.25.36.162	
+port: 5433
+username: dbadmin
+password: Password1
+schema: EDMP
+tableName: RECOMMENDATION
+
+# Set output file path
+outputPath: output/
+

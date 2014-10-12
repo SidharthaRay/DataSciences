@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/Bigdata_repo/!svn/ver/13/Extractor
+END
+.cache
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Bigdata_repo/!svn/ver/13/Extractor/.cache
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Bigdata_repo/!svn/ver/13/Extractor/.gitignore
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Bigdata_repo/!svn/ver/13/Extractor/.project
+END
+input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Bigdata_repo/!svn/ver/13/Extractor/input.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Bigdata_repo/!svn/ver/13/Extractor/.classpath
+END

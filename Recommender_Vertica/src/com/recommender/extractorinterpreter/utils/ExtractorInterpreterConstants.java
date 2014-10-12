@@ -1,0 +1,45 @@
+package com.recommender.extractorinterpreter.utils;
+
+public interface ExtractorInterpreterConstants {
+//	public static final String HIVE_TABLE_NAME = "hive.table.name";
+//	public static final String MAPPING_PROPERTIES = "mapping.properties";
+	public static final String LOCAL_FILE = "local.file";
+	public static final String OUTPUT_DIRECTORY_EXTRACTOR = "extractor.output.directory";
+//	public static final String OUTPUT_FILE_FORMAT = "output.file.format";
+//	public static final String HIVE_STR_FIELD_TYPE = "string";
+	public static final String INPUT_DIRECTORY_EXTRACTOR = "extractor.input.directory";
+	public static final String TEMP_DIRECTORY_EXTRACTOR = "extractor.temp.directory";
+	public static final String INPUT_TEXT_FILE_DELIMITTER_EXTRACTOR = "extractor.input.text.file.delimiter";
+//	public static final String OUTPUT_XML_ROOT = "output.xml.root";
+	public static final String OUTPUT_TEXT_FILE_DELIMITTER_EXTRACTOR = "extractor.output.text.file.delimitter";
+//	public static final String WEBLOG_EXTRACTOR_PROPERTIES = "weblogExtractor.properties";
+	public static final String FIELDS_IPADDRESS_EXTRACTOR = "extractor.fields.ipaddress";
+	public static final String FIELDS_USERNAME_EXTRACTOR = "extractor.fields.username";
+	public static final String FIELDS_URL_EXTRACTOR = "extractor.fields.url";
+	public static final String FIELDS_BROWSERINFO_EXTRACTOR = "extractor.fields.browserinfo";
+	public static final String FIELDS_DATETIME = "extractor.fields.datetime";
+	public static final String TOTAL_FIELDS_EXTRACTOR = "extractor.total.fields";
+	public static final String EMPTY_STRING = "";
+	public static final String COMMA_STRING = ",";
+	public static final String BLANK_SPACE = " ";
+	public static final String JOB_NAME_EXTRACTOR = "extractor";
+	public static final String DOT_STRING = ".";
+	public static final String TAB_STRING = "\t";
+	public static final String NEW_LINE = "\n";
+	public static final String FORWARD_SLASH = "/";
+	public static final String OUTPUT_DIRECTORY_INTERPRETER = "interpreter.output.directory";
+	public static final String INPUT_DIRECTORY_INTERPRETER = "interpreter.input.directory";
+	public static final String TEMP_DIRECTORY_INTERPRETER = "interpreter.temp.directory";
+	public static final String INPUT_TEXT_FILE_DELIMITTER_INTERPRETER = "interpreter.input.text.file.delimiter";
+	public static final String OUTPUT_TEXT_FILE_DELIMITTER_INTERPRETER = "interpreter.output.text.file.delimitter";
+//	public static final String WEBLOG_interpreter_PROPERTIES = "webloginterpreter.properties";
+	public static final String FIELDS_IPADDRESS_INTERPRETER = "interpreter.fields.ipaddress";
+	public static final String FIELDS_USERNAME_INTERPRETER = "interpreter.fields.username";
+	public static final String FIELDS_URL_INTERPRETER = "interpreter.fields.url";
+	public static final String FIELDS_BROWSERINFO_INTERPRETER = "interpreter.fields.browserinfo";
+	public static final String FIELDS_DATE = "interpreter.fields.date";
+	public static final String FIELDS_TIME = "interpreter.fields.time";
+	public static final String FIELDS_REFERRER = "interpreter.fields.referrerurl";
+//	public static final String TOTAL_FIELDS_INTERPRETER = "interpreter.total.fields";
+	public static final String JOB_NAME_INTERPRETER = "interpreter";
+}

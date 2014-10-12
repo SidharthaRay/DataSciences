@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/common/rotation
+END
+RotationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/common/rotation/RotationAction.java
+END
+MoveFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/common/rotation/MoveFileAction.java
+END

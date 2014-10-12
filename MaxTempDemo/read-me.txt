@@ -1,0 +1,3 @@
+"resources/input/sample.txt" - input exists in the project folder itself
+
+Delete the output folder "resources/output" each time after executing the application 

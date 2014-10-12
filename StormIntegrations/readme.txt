@@ -1,0 +1,1 @@
+bin/storm jar /home/cloudera/workspace/StormIntegrations/target/StormIntegrations-0.0.1-jar-with-dependencies.jar com.deloitte.storm.starter.ExtractorTopology StormIntegrations /home/cloudera/workspace/StormIntegrations/src/main/resources/config/ApplicationResources.properties

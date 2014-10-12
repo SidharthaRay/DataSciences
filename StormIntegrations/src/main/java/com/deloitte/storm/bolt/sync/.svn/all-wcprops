@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/sync
+END
+SyncPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/sync/SyncPolicy.java
+END
+CountSyncPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/sync/CountSyncPolicy.java
+END

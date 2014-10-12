@@ -1,0 +1,6 @@
+123	Cognizant
+456	ZenSar
+789	TCS
+123	IBM
+456	Facebook
+789	Tweeter

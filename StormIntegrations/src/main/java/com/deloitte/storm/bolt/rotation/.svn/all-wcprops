@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/rotation
+END
+FileSizeRotationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/rotation/FileSizeRotationPolicy.java
+END
+FileRotationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/rotation/FileRotationPolicy.java
+END
+TimedRotationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/rotation/TimedRotationPolicy.java
+END
+NoRotationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/rotation/NoRotationPolicy.java
+END

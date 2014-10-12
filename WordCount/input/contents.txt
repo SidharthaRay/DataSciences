@@ -1,0 +1,37 @@
+SOAP Web Services:
+Objective:
+Upon completion of this course participants will be able to write programs to publish and consume SOAP based Web Services using JAX-WS & Spring WS.
+
+Pre-requisites:
+Experience with Java Programming Language and basics of XML
+Experience of developing web applictions using Servlet/JSP
+
+1.  Introduction
+		What are Web Services?
+		Types of Web Services
+		Web Services vs Web Applications
+		WSDL, UDDI, SOAP & SEI
+		SOAP vs REST
+		
+2.	XML Parsing
+		Parsing XML with DOM/SAX/XPath Parser
+		Marshalling/Unmarshalling XML/Java Object with JAXB
+		
+3.  SOAP Web Services with JAX-WS
+		Publishing Web Services with J2EE SDK
+		@WebService, @WebMethod, @WebParam, @WebResult, SOAPBinding.Style Annotations
+		Consuming Web Services
+
+4.	Spring Web Services with Spring WS		
+		What is Spring-WS?
+		Contract First Vs. Contract Last Development
+		Publishing Web Services 
+			with DOM XML Parser
+			with JAXB Marshalling
+		Consuming Web Services Using WebServiceTemplate
+		SOAP Faults
+		Web Services Authentication
+
+5. 	Testing Web Services Using SoapUI		
+		
+6. 	Best Practices

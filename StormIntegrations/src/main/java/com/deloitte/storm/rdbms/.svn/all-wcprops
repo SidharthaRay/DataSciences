@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/rdbms
+END
+RDBMSDumperBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/rdbms/RDBMSDumperBolt.java
+END
+RDBMSCommunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/rdbms/RDBMSCommunicator.java
+END
+RDBMSConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/rdbms/RDBMSConnector.java
+END

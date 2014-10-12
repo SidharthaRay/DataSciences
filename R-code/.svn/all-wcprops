@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/Bigdata_repo/!svn/ver/46/R-code
+END
+vertica-jdbc-7.0.1-0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Bigdata_repo/!svn/ver/42/R-code/vertica-jdbc-7.0.1-0.jar
+END
+test_rating.csv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Bigdata_repo/!svn/ver/41/R-code/test_rating.csv
+END
+dev_R_script.R
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Bigdata_repo/!svn/ver/43/R-code/dev_R_script.R
+END
+interest_rating.csv
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Bigdata_repo/!svn/ver/41/R-code/interest_rating.csv
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Bigdata_repo/!svn/ver/46/R-code/config.yml
+END

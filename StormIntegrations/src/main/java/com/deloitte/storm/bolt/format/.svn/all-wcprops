@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/format
+END
+DefaultFileNameFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/format/DefaultFileNameFormat.java
+END
+FileNameFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/format/FileNameFormat.java
+END
+DefaultSequenceFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/format/DefaultSequenceFormat.java
+END
+RecordFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/format/RecordFormat.java
+END
+SequenceFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/format/SequenceFormat.java
+END
+DelimitedRecordFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Bigdata_repo/!svn/ver/30/StormIntegrations/src/main/java/com/deloitte/storm/bolt/format/DelimitedRecordFormat.java
+END

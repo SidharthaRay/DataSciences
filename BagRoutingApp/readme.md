@@ -1,8 +1,8 @@
 ##How to run the application?
-Run com.bag.app.routing.BagRouting as java application.
+Run *com.bag.app.routing.BagRouting* as java application.
 
 ##Where to put the input?
-Paste your input in BagRoutingApp/src/main/resources/input.txt file.
+Paste your input in *BagRoutingApp/src/main/resources/input.txt* file.
 
 ##What is the solution approach being followed?
 	1. Bag need to be routed. So need to find out the source node (flight gate number) to destination node (flight gate number or Baggage Claim).
